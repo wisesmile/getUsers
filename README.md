@@ -1,7 +1,9 @@
 # getUsers
+
 Modules, packages and tests.
 
-A complete round trip test of create-react-library, publish to npm and test independently in a create-react-app.
+A complete round trip test of create-react-library, publish to npm and test  
+independently in a create-react-app.
 
 ## Verdacccio
 
@@ -21,3 +23,5 @@ npm set registry http://0.0.0.0:4873
 npm publish --registry http://0.0.0.0:4873
 npm publish --registry http://0.0.0.0:4873
 ```
+
+Verdaccio server is running at http://0.0.0.0:4873/#/
